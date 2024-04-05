@@ -1,0 +1,13 @@
+read 100 ...ok, Virtual: 0 Fisica: 0
+read 19 ...ok, Virtual: 0 Fisica: 0
+write CC32 ...ok, Virtual: 3 Fisica: 3
+read 100000000000000 ...ok, Virtual: 1 Fisica: 1
+read 100001000000000 ...ok, Virtual: 1 Fisica: 1
+read 535897 ...Fallo de pagina, Virtual: 32 Fisica asignada: 11
+write 110000000000001 ...ok, Virtual: 1 Fisica: 1
+write 286611 ...ok, Virtual: 17 Fisica: 17
+read 0101010111 ...ok, Virtual: 0 Fisica: 0
+write 10101010 ...ok, Virtual: 0 Fisica: 0
+read 237270 ...ok, Virtual: 14 Fisica: 14
+write 452627 ...ok, Virtual: 27 Fisica: 27
+read 0 ...ok, Virtual: 0 Fisica: 0
